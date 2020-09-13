@@ -1,0 +1,1 @@
+create table Stability_Data (iso_code text, country text, stable_index decimal)
