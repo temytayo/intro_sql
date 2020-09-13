@@ -1,1 +1,1 @@
-create table Covid_Data (country text, continent text, iso_code text, population int, total_cases int, total_deaths int, new_cases int, gdp_per_capita decimal, population_density decimal, total_cases_per_mill decimal, total_deaths_per mill decimal)
+create table Covid_Data (country text, continent text, iso_code text, population int, total_cases int, total_deaths int, new_cases int, gdp_per_capita decimal, population_density decimal, total_cases_per_mill decimal, total_deaths_per_mill decimal)
