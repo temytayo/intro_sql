@@ -7,6 +7,9 @@ Resources available for the workshop include sample data sets and prepared SQL s
 
 REQUIREMENTS
 1. Please go to https://dbeaver.io/ and download and install the dbeaver app
+  a. After installing dbeaver, ensure to set up a SQLite database connection
+  b. Define the PATH to the database file to a location within your Documents folder:
+    E.g. C:\Users\temitayo\Documents\YOUR_NAME.db
 
 2. Please go to https://github.com/temytayo/intro_sql/ and download the following files for use during the workshop:
 
